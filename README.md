@@ -1,6 +1,6 @@
 # Hey, I'm Tamir 👋
 
-I'm a frontend engineer at **CaliAlfa** and one of the code owners of our frontend monorepo, the React + TypeScript code behind a real-time sports betting platform. When something keeps slowing my team down, I usually end up building a tool for it.
+I'm a frontend tech lead at **CaliAlfa** and one of the code owners of our frontend monorepo, the React + TypeScript code behind a real-time sports betting platform. When something keeps slowing my team down, I usually end up building a tool for it.
 
 ### Things I built because I got tired of doing them by hand
 
