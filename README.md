@@ -30,3 +30,7 @@ Plus the things I reach for every day: TanStack Query, Table and Virtual · Zust
 - If I've explained something twice, it turns into a README or a script.
 
 <!-- TODO: optional line about you outside of code, e.g. "When I'm not coding, you'll find me ..." -->
+
+### Say hi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamirgilany/)
